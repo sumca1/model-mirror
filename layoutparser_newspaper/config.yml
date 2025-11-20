@@ -1,0 +1,8 @@
+model_name: layoutparser_newspaper
+original_url: https://www.dropbox.com/s/8v4uqmz1at9v72a/model_final.pth?dl=1
+file_extension: pth
+split_size_mb: 95
+total_size_bytes: 329981106
+parts_count: 4
+created_at: 2025-11-20T14:24:52Z
+sha256: c563a528dc007d6e5f630c574041be30ab431c098f4c4283e2225f5da04cb59c

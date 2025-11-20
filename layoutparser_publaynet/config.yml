@@ -1,0 +1,8 @@
+model_name: layoutparser_publaynet
+original_url: https://www.dropbox.com/s/57zjbwv6gh3srry/model_final.pth?dl=1
+file_extension: pth
+split_size_mb: 95
+total_size_bytes: 856276388
+parts_count: 9
+created_at: 2025-11-20T10:58:56Z
+sha256: 250a94ef23ce66174bbfbe19e83a4ddc3fa73a08bc7320c586e733c29a56c47c

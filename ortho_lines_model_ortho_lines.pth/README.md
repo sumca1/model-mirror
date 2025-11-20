@@ -7,7 +7,7 @@
 - **מספר חלקים**: 8
 - **גודל כל חלק**: ~95MB
 - **URL מקורי**: https://huggingface.co/yzamir/ortho-lines/resolve/main/ortho_lines.pth
-- **תאריך הורדה**: Thu Nov 20 12:16:27 UTC 2025
+- **תאריך הורדה**: Thu Nov 20 12:30:37 UTC 2025
 
 ## איך להשתמש
 
